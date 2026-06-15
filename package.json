@@ -1,0 +1,10 @@
+{
+  "name": "collaboana-landing-page",
+  "version": "1.0.0",
+  "description": "Collaboana Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build required'"
+  },
+  "dependencies": {}
+}
